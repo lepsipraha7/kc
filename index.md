@@ -28,6 +28,7 @@ layout: default
       <p class="grey-text mb-2 text-center" align="justify">
         Celý program by mělo vždy zastřešovat téma měsíce, na které se budou orientovat i dílčí činnosti centra. Program připravovaného kulturního centra se dá pro přehlednost rozdělit do několika sekcí: přednášky, výstavy, besedy, workshopy. Témata budeme vybírat, doplňovat a tvořit společně se členy spolku a uživateli centra, na základě jejich možností a přání.
       </p>
+      Celý text našeho projektu ke stažení v <a href="/files/projekt-kc-lepsipraha7.pdf">PDF</a>.
     </div>
     <!--/Second column-->
   </div>
