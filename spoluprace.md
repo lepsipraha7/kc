@@ -1,0 +1,15 @@
+---
+title: Spolupráce se školami, ÚMČ, MK, NTM, NZM a dalšími subjekty
+permalink: /spoluprace
+layout: page
+---
+
+Primárním subjektem, se kterým chceme spolupracovat jsou školy a školky. Rádi bychom připravili informační bloky o Praze 7 a její historii s pracovními sešity a listy, aby děti a studenti po návštěvě kulturního centra mohli dobře propojit své vzdělávání s místem svého bydliště, aby se jim často memorovaná čísla a informace propojily s jejich životním prostorem, aby nenásilně dostali informace, které využijí ve svém dalším studiu. Ideálně bychom děti a mládež chtěli motivovat k samostné návštěvě kulturního centra a k aktivnímu zapojení do jeho činnosti. Rádi bychom též prezentovali knihy, které pojednávají o Praze 7 nebo se jejich děj Prahy 7 dotýká a to jak formou předčítání, tak i jen seznamováním s těmito knihami a jejich dostupností.
+
+Předpokládáme navázání spolupráce ÚMČ Prahy 7, jehož záměr bude naše kulturní centrum plnit. Rádi bychom pro naše členy a aktivní uživatele domluvili přístup a spolupráci se stavebním archivem Prahy 7. Také předpokládáme spolupráci s časopisem Hobulet a to nejen na propagaci našich akcí, ale i pro tematické sladění s historickým tématem prezentovaným v Hobuletu, které bychom mohli doplnit v našem kulturním centru.
+
+Dále bychom rádi navázali spolupraci s technickým a zemědělským muzeem. NTM i NZM mají ve svých depositářích a archivech řadu materiálů s tematikou Prahy 7. Zajímavá je též knihovna NTM, která má na Letné k dispozici řadu publikací. Pro získávání přístupu k historickým pramenům je samozřejmě důležitá i spolupráce s Umělecko průmyslovým muzeem, Národním muzeem, Muzeem hlavního města Prahy,  Archivem hlavního města Prahy, Národní knihovnou, Městskou knihovnou a dalšími subjekty.
+
+Od září 2015 chtěla městská část obnovit pobočku městské knihovny pro děti a mládež, práce se zdržela, ale vše nasvědčuje tomu, že se to do vzniku našeho kulturního centra podaří. S touto pobočkou bychom rádi navázali silnější spolupráci, protože se bude nacházet ve stejném domě. Kromě dobrých sousedských vztahů bychom rádi spolupracovali v parteru, kde budeme mít sousední vitrínku a rádi bychom tedy pomohli tematicky s výzdobou výlohy knihovny popř. i interiéru knihovny. Také bychom rádi spolupracovali v oblasti volnočasového zapojení dětí a mládeže. Témata našich workshopů a besed se dotýkají činnosti městské knihovny, jejích fondů a knihovnictví a archivnictví obecně. Ať již předčítání knih, besedy s pamětníky a autory, vyhledávání v knihovnických bázích, zpracovávání slovníkových hesel do wikipedie a zpracovávání informací obecně, mapové sbírky a služby, multimediální tvorba, to vše jsou témata, ve kterých budeme rádi dle možností knihovny s nově vzniklou pobočkou aktivně spolupracovat. Náš spolek má také k dospozici velký počet knih s tematikou Prahy 7, které může prezenčně zapůjčovat v centru ke studiu.
+
+V neposlední řadě bychom rádi spolupracovali s organizacemi orientovanými na staré lidi, kterým bychom rádi pomohli oživit vzpomínky a ideálně je i zachytili.

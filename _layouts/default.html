@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Material Design Bootstrap</title>
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Bootstrap core CSS -->
+    <link href="{{ site.url }}/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="{{ site.url }}/css/mdb.css" rel="stylesheet" />
+    <!-- Your custom styles (optional) -->
+    <style media="screen">
+      ul li {
+        list-style-type: disc;
+      }
+    </style>
+</head>
+
+<body class="light-blue-skin">
+
+    <!--Main Navigation-->
+    {% include navbar.html %}
+
+
+    <!--Main Navigation-->
+
+    <!--Main layout-->
+    <main class="mt-5 pt-1">
+        <div class="container">
+            <!--Section: Cards-->
+            <section>
+                <!-- Heading & Description -->
+                <div class="wow fadeIn">
+                    <!--Section heading-->
+                    <h1 class="post-title">{{ page.title | escape }}</h1>
+                    {{ content }}
+                </div>
+                <!-- Heading & Description -->
+            </section>
+            <!--Section: Cards-->
+
+        </div>
+    </main>
+    <!--Main layout-->
+
+
+    <footer class="page-footer center-on-small-only" style="padding-top: 0" id="footer">
+    <div class="footer-copyright wow fadeIn" data-wow-delay="0.3s">
+      <div class="container-fluid">
+          Lepší Praha 7 z.s.
+      </div>
+    </div>
+  </footer>
+
+    <!-- SCRIPTS -->
+    <!-- JQuery -->
+    <script src="https://maps.google.com/maps/api/js?key=AIzaSyC7SAVSr6JTOtJsL6BdErqJgljAXRkUURc"></script>
+    <script src="{{ site.url }}/javascripts/jquery-3.1.1.min.js"></script>
+    <script src="{{ site.url }}/javascripts/tether.min.js"></script>
+    <script src="{{ site.url }}/javascripts/bootstrap.min.js"></script>
+    <script src="{{ site.url }}/javascripts/mdb.min.js"></script>
+    <script src="{{ site.url }}/javascripts/wow.js"></script>
+    <script src="{{ site.url }}/javascripts/google_map.js"></script>
+
+    <!-- Initializations -->
+    <script type="text/javascript">
+        // Animations initialization
+        new WOW().init();
+    </script>
+</body>
+
+</html>
