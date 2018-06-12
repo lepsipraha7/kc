@@ -17,7 +17,7 @@ title: KC Letná
 description: > # this means to ignore newlines until "baseurl:"
   Kulturní centrum Letná - Lepší Praha 7 z.s.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kc.lepsipraha7.cz" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://kc.lepsipraha7.cz" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  lepsipraha7
 
 # Build settings
