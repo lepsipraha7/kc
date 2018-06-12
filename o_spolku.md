@@ -6,6 +6,8 @@ layout: page
 
 vznikl 21. května 2012 jako občanské sdružení ve smyslu zákona č. 83/1990 Sb., o sdružování občanů. S účinností zákona č. 89/2012 Sb, občanského zákoníku, tedy od 1. 1. 2014, se považuje za spolek.
 
+Předsedou spolku je Ing. Jiří Kubíček.
+
 Účelem spolku je podle stanov:
 
 * propagovat a prosazovat principy občanské společnosti prostřednictvím podpory občanů v jejich úsilí při získávání informací o správě věcí veřejných a jejich aktivního vtažení do kontroly procesů samosprávy,

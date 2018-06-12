@@ -13,6 +13,6 @@ Pokud soutěž vyhrajeme, budeme potřebovat pomoci prostor vybavit.
 
 Také hledáme pamětníky, odborníky, nadšence a aktivní sousedy.
 
-Kontaktní telefon: 234099340 nebo nám napište na <a href="https://m.me/lepsipraha7">facebooku</a>
+Kontaktní telefon: 234099340 (předseda Ing. Jiří Kubíček) nebo nám napište na <a href="https://m.me/lepsipraha7">facebooku</a>
 
 Podpořit naše úsilí můžete také finančně. Číslo účtu našeho spolku je: 2601268474/2010
